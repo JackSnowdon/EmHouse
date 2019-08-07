@@ -1,8 +1,30 @@
-.test {
-    font-size: 2rem;
+@import url('https://fonts.googleapis.com/css?family=Dosis:200,400,600&display=swap');
+
+.bg-color {
+    background-color: black;
 }
 
 .box {
-    height: 350px;
-    width: 200px;
+    height: 100%;
+    width: 17.2rem;
+}
+
+.image-stack {
+    display: inline-block;
+}
+
+.mborders {
+    margin-top: -7px;
+}
+
+.layover {
+    font-size: 32px;
+    font-weight: 200;
+    color: white;
+    font-family: 'Dosis', sans-serif;
+}
+
+span {
+    padding-left: 5px;
+    padding-right: 5px;
 }
