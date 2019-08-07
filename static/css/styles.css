@@ -20,6 +20,13 @@
     font-family: 'Dosis', sans-serif;
 }
 
+.pale-break {
+    width: 33rem;
+    height: 2px;
+    border: 0;
+    background-color: #922e2b;
+}
+
 span {
     padding-left: 5px;
     padding-right: 5px;
